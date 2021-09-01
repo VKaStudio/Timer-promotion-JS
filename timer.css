@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+.promotion__timer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Black Ops One', cursive;
+    background: linear-gradient(45deg, #30cfd0, #330867); 
+    color: #fff;
+}
+
+.timer {
+    display: flex;
+    padding: 20px;
+    font-size: 24px;
+    color: #fff;
+}
+
+.timer__block {
+    padding: 0 10px;
+}
